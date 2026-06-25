@@ -1,1 +1,1 @@
-practicing html css and js
+practicing html css and java script
